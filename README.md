@@ -19,8 +19,7 @@
         edición de un libro
         digital se calcula según lo que costaría editar 10 ejemplares de dicho libro en papel.
         
-        ![Clase libro](https://user-images.githubusercontent.com/85589346/216466828-4e6fefc5-486f-48d5-ba39-0f497f513027.jpeg)
-
-        ![Clase libro](https://user-images.githubusercontent.com/85589346/216467823-42d9f6b8-5cfd-45d3-b2e7-069c659ac70a.jpeg)
+       
+![Matriz 4 x5 ](https://user-images.githubusercontent.com/85589346/216468673-b7950f94-296b-4007-8bdc-7b943ce6be3d.jpeg)
 
         
