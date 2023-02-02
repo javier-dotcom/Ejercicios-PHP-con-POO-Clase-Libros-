@@ -22,4 +22,5 @@
        
 ![Matriz 4 x5 ](https://user-images.githubusercontent.com/85589346/216468673-b7950f94-296b-4007-8bdc-7b943ce6be3d.jpeg)
 
-        
+![Clase libro](https://user-images.githubusercontent.com/85589346/216468914-cb16564e-0144-4a37-82d2-c6a2c30ac851.jpeg)
+
