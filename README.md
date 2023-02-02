@@ -21,5 +21,6 @@
         
         ![Clase libro](https://user-images.githubusercontent.com/85589346/216466828-4e6fefc5-486f-48d5-ba39-0f497f513027.jpeg)
 
-        
+        ![Clase libro](https://user-images.githubusercontent.com/85589346/216467823-42d9f6b8-5cfd-45d3-b2e7-069c659ac70a.jpeg)
+
         
