@@ -18,6 +18,7 @@
         el libro ocupará 154 000 bytes. <br>• Se desea también que pueda calcular su costo de edición. El costo de
         edición de un libro
         digital se calcula según lo que costaría editar 10 ejemplares de dicho libro en papel.
+        Resolución del ejercicio.
         
       
 
